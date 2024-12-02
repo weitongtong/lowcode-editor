@@ -2,10 +2,25 @@
 
 ## 布局
 
-|  header 头部区  |      |      |                        |                |      |      |
-| :-------------: | ---- | ---- | ---------------------- | -------------- | ---- | ---- |
-| Material 物料区 |      |      | EditArea 画布区        | Setting 属性区 |      |      |
-|      物料       | 大纲 | 源码 | 通过拖拽编辑组件树数据 | 属性           | 样式 | 事件 |
+<table border="1" align="center">
+  <tr align="center">
+    <td colspan="7">header 头部区 </td>
+  </tr>
+  <tr align="center">
+    <td colspan="3">Material 物料区</td>
+    <td>EditArea 画布区</td>
+    <td colspan="3">Setting 属性区</td>
+  </tr>
+  <tr align="center">
+    <td>物料</td>
+    <td>大纲</td>
+    <td>源码</td>
+    <td>通过拖拽编辑组件树数据</td>
+    <td>属性</td>
+    <td>样式</td>
+    <td>事件</td>
+  </tr>
+</table>
 
 ## 目录
 
